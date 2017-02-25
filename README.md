@@ -59,7 +59,7 @@ As a deligent employee, I couldn't resist to try it out.
 ### Sanjiv Yajnik
 
 <p align = 'center'>
-<img src = 'input_pics/sanjiv3.jpg' width = '400px'>
+<img src = 'input_pics/Sanjiv3.jpg' width = '400px'>
 <img src = 'output_pics/udnie/sanjiv3_udnie.jpg' width = '400px'>
 </p>
 
