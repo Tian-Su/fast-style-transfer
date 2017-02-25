@@ -1,4 +1,4 @@
-# Artificial Artist builded using deep learning and [TensorFlow](https://github.com/tensorflow/tensorflow)
+# Artificial Artist equiped with deep-learning using [TensorFlow](https://github.com/tensorflow/tensorflow)
 _____
 ## Creativity
 _____
