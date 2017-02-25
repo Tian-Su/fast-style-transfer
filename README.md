@@ -2,7 +2,9 @@
 _____
 ## Creativity
 _____
-Creativative is considered as an ablity only intelligent beeing possess. Google's definition of "creativity" is "the use of the imagination or original ideas, especially in the production of an artistic work." Whether artificial intelligent can be "creative" is quite a philosophical debate. Almost all great artists start with learning and imitate others work. The fast-style-transfer project is one of many examples that prove computer can at least become **an excellent apprentice**.
+Creativative is considered as an ablity only intelligent beeing possess. Google's definition of "creativity" is "the use of the imagination or original ideas, especially in the production of an artistic work." Whether artificial intelligent can be "creative" is a quite philosophical debate. 
+
+The fast-style-transfer project is one of many examples that prove computer can at least become **an excellent apprentice**. Almost all great artists start with learning and imitate others work, right? 
 
 ____
 ## Fast-stype-tranfer
@@ -38,7 +40,7 @@ Here is my favorite application amonst all I tried. Call me a nerd. I just love 
 _______
 ## Capital One
 _______
-As an deligent employee, I couldn't resist to try it out.
+As a deligent employee, I couldn't resist to try it out.
 
 ### Capial One Plano Campus
 
