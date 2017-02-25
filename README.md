@@ -42,7 +42,7 @@ _______
 _______
 As a deligent employee, I couldn't resist to try it out.
 
-### Capial One Plano Campus
+### Capital One Plano Campus
 
 <p align = 'center'>
 <img src = 'input_pics/c1_building.jpg' width = '400px'>
